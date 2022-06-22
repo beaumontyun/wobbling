@@ -1,2 +1,2 @@
 # wobbling
-Created with CodeSandbox
+3js wobbling physics test
